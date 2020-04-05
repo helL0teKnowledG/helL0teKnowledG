@@ -1,9 +1,9 @@
 {
-  "name": "materialies",
+  "name": "helL0teKnowledG",
   "version": "1.0.0",
-  "private": false,
-  "homepage": "http://matearealies.github.io/materiaLies",
-  "description": "No One homed",
+  "private": true,
+  "homepage": "http://helL0teKnowledG.github.io/helL0teKnowledG",
+  "description": "HelL-0 teKnowledG",
   "dependencies": {
     "@date-io/date-fns": "^1.3.13",
     "@material-ui/core": "^4.9.7",
